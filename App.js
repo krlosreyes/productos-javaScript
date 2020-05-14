@@ -60,7 +60,7 @@ class UI{
     }
 }
 
-//DOM EVENTS
+//DOM EVENTS TODAY
 
 document.getElementById('formulario-producto')
         .addEventListener('submit', function(e){
